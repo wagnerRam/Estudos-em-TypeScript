@@ -9,7 +9,6 @@ Repositório focado em estudos sobre TypeScript. Este projeto será atualizado c
 - [Comandos Úteis](#comandos-úteis)
 - [Próximos Tópicos](#próximos-tópicos)
 - [Contribuição](#contribuição)
-- [Licença](#licença)
 
 ## Descrição do Projeto
 
